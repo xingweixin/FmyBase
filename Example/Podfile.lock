@@ -1,0 +1,16 @@
+PODS:
+  - FmyBase (0.1.0)
+
+DEPENDENCIES:
+  - FmyBase (from `../`)
+
+EXTERNAL SOURCES:
+  FmyBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FmyBase: c9de4f331e7298ddd8c52fffc0a6c4d5fbb57c94
+
+PODFILE CHECKSUM: 33c12e6e02686c94d918e62c5f9970c164a4dfd9
+
+COCOAPODS: 1.10.1

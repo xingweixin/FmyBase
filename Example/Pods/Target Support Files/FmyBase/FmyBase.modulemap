@@ -1,0 +1,6 @@
+framework module FmyBase {
+  umbrella header "FmyBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

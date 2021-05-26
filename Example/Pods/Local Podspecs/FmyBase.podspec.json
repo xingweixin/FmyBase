@@ -1,0 +1,22 @@
+{
+  "name": "FmyBase",
+  "version": "0.1.0",
+  "summary": "A short description of FmyBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/邢伟新/FmyBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "邢伟新": "xwx3135@126.com"
+  },
+  "source": {
+    "git": "https://github.com/邢伟新/FmyBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FmyBase/Classes/**/*"
+}
